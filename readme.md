@@ -27,5 +27,20 @@ git clone https://github.com/yourusername/Zcleaner.git
 cd Zcleaner
 make
 ```
-## Installation
+## Usage
 
+### Clean cache directories 
+run :
+```
+./zclean
+```
+### Add new cache directories to the conf list 
+run :
+```
+./zclean --add "path"
+```
+### Drop directory from the conf list 
+run :
+```
+./zcleaner --drop "path"
+```
