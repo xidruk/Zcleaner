@@ -8,12 +8,12 @@ Zcleaner is a command-line utility that helps you maintain a clean filesystem by
 
 ## Features
 
-- 🧹 Clean multiple directories in a single operation
-- 📊 Detailed cleaning statistics (before/after size, freed space)
-- 🏠 Home directory usage tracking
-- 🔒 Protection against critical system directories
-- ⚙️ Configuration management via CLI
-- 📁 Path expansion support (~ for home directory)
+-  Clean multiple directories in a single operation
+-  Detailed cleaning statistics (before/after size, freed space)
+-  Home directory usage tracking
+-  Protection against critical system directories
+-  Configuration management via CLI
+-  Path expansion support (~ for home directory)
 
 ## Installation
 
@@ -21,9 +21,9 @@ Zcleaner is a command-line utility that helps you maintain a clean filesystem by
 - gcc compiler
 - make (build system)
 
-### Build & Install
-```bash
-git clone https://github.com/yourusername/Zcleaner.git
+### Installation 
+```
+git clone https://github.com/xidruk/Zcleaner.git
 cd Zcleaner
 make
 ```
