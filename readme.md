@@ -18,8 +18,8 @@ Zcleaner is a command-line utility that helps you maintain a clean filesystem by
 ## Installation
 
 ### Prerequisites
-- GCC compiler
-- Make (build system)
+- gcc compiler
+- make (build system)
 
 ### Build & Install
 ```bash
