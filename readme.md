@@ -14,8 +14,6 @@ Zcleaner is a command-line utility that helps you maintain a clean filesystem by
 - 🔒 Protection against critical system directories
 - ⚙️ Configuration management via CLI
 - 📁 Path expansion support (~ for home directory)
-- 🚦 Dry-run mode for safe testing
-- 📝 Logging capabilities
 
 ## Installation
 
