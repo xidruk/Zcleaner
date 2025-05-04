@@ -1,0 +1,24 @@
+# conf/dirconf.dcon  ? LIST OF CASHE DIRS
+
+/home/xidruk/.cache
+/home/xidruk/.var/app/com.google.Chrome/cache
+/home/xidruk/.npm/_cacache
+/home/xidruk/.bun/install/cache
+/home/xidruk/.var/app/com.google.Chrome/config/google-chrome/component_crx_cache
+/home/xidruk/.var/app/com.google.Chrome/config/google-chrome/extensions_crx_cache
+/home/xidruk/.var/app/com.google.Chrome/config/google-chrome/Default/Service Worker/ScriptCache
+/home/xidruk/.var/app/com.google.Chrome/config/google-chrome/Default/File System
+/home/xidruk/.var/app/com.google.Chrome/config/google-chrome/Default/Service Worker/CacheStorage
+/home/xidruk/.var/app/com.google.Chrome/config/google-chrome/Profile [0-9]/Service Worker/CacheStorage
+/home/xidruk/.var/app/com.google.Chrome/config/google-chrome/Profile [0-9]/Service Worker/ScriptCache
+/home/xidruk/.var/app/com.google.Chrome/config/google-chrome/Profile [0-9]/File System
+/home/xidruk/.var/app/com.spotify.Client/cache
+/home/xidruk/.var/app/com.visualstudio.code/cache
+/home/xidruk/.var/app/com.visualstudio.code/config/Code/Cache
+/home/xidruk/.var/app/com.visualstudio.code/config/Code/CachedData
+/home/xidruk/.var/app/com.visualstudio.code/config/Code/CachedExtensionVSIXs
+/home/xidruk/.var/app/com.discordapp.Discord/config/discord/Cache
+/home/xidruk/.var/app/com.discordapp.Discord/cache
+/home/xidruk/.var/app/org.mozilla.firefox/cache
+/home/xidruk/.var/app/*/cache
+/home/xidruk/.local/share/Trash
