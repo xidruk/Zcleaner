@@ -3,6 +3,7 @@
 
 #include <stdio.h>
 #include <limits.h>
+#include "gdefs.h"
 
 unsigned long long get_directory_size(const char* path);
 unsigned long long get_total_home_size();
