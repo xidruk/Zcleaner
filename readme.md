@@ -23,7 +23,7 @@ Zcleaner is a command-line utility that helps you maintain a clean filesystem by
 
 ### Installation 
 ```
-git clone https://github.com/xidruk/Zcleaner.git
+git clone [https://github.com/xidruk/Zcleaner.git](https://github.com/xidruk/zcleaner.git)
 cd Zcleaner
 make
 ```
